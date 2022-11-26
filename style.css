@@ -1,0 +1,83 @@
+.top-header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    position: sticky;
+    color: white;
+    display: inline-block;
+}
+
+.header-div {
+    background-color: black;
+    position: sticky;
+}
+
+.center-text {
+    font-size: 90px;
+    margin-left: 550px;
+    margin-top: 180px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.about-me {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    display: inline-block;
+}
+
+
+.social-media {
+    margin-top: 100px;
+    margin-left: 500px;
+    font-size: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.github-button {
+    border: none;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+
+.youtube-button {
+    border: none;
+    font-size: 30px;
+    margin-left: 240px;
+}
+
+
+.instagram-button {
+    border: none;
+    font-size: 30px;
+    margin-left: 180px;
+}
+
+
+.twitter-button {
+    border: none;
+    font-size: 30px;
+    margin-left: 250px;
+    cursor: pointer;
+}
+
+
+
+.projects-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    margin-left: 500px;
+    margin-top:  70px;
+    
+}
+
+
+.projects-p {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    width: 650px;
+    font-size: 25px;
+    margin-left: 370px;
+    margin-top: -40px;
+}
